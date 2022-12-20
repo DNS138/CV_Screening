@@ -1,0 +1,9 @@
+pandas
+numpy
+nltk
+pymupdf
+docx2txt
+spacy
+sklearn
+gensim
+openpyxl
